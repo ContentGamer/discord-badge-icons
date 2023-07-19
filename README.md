@@ -1,2 +1,2 @@
 # discord-badge-icons
-Discord badge icons.
+this repo is for a discordjs v14 bot.
